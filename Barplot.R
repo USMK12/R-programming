@@ -1,0 +1,9 @@
+library(ggplot2)
+n<-c(1,2,3,4,5,6,6,6,6)
+b<-c(5,6,7,8,9,10)
+barplot(n,names.arg=b)
+hist👎
+mean👎
+median👎
+x<-table👎
+names(x)[which(x==max(x))]
